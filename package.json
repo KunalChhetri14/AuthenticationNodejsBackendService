@@ -1,0 +1,19 @@
+{
+  "name": "loginbackendservice",
+  "version": "1.0.0",
+  "description": "api to process login request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunalChhetri14/loginNodejsBackendService.git"
+  },
+  "author": "Kunal Chhetri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunalChhetri14/loginNodejsBackendService/issues"
+  },
+  "homepage": "https://github.com/KunalChhetri14/loginNodejsBackendService#readme"
+}
