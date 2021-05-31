@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KunalChhetri14/loginNodejsBackendService/issues"
   },
-  "homepage": "https://github.com/KunalChhetri14/loginNodejsBackendService#readme"
+  "homepage": "https://github.com/KunalChhetri14/loginNodejsBackendService#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
